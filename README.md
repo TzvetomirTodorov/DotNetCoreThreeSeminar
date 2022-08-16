@@ -1,2 +1,2 @@
 # DotNetCoreThreeSeminar
-Seminar course taken through Sean from FreemiumMedia / sponsored through ProjectIntegrity
+Seminar course taken through FreemiumMedia / sponsored through ProjectIntegrity
